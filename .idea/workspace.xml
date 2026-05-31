@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5ba061f0-7351-4a00-862f-213245563ffe" name="Changes" comment="" />
+    <list default="true" id="5ba061f0-7351-4a00-862f-213245563ffe" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -100,7 +102,7 @@
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "codeWithMe.voiceChat.enabledByDefault": "false",
     "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
-    "git-widget-placeholder": "testes",
+    "git-widget-placeholder": "main",
     "junie.onboarding.icon.badge.shown": "true",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Users/Diogo/Desktop/Repositorios/Portfolio",
@@ -130,6 +132,7 @@
       <updated>1780175916257</updated>
       <workItem from="1780175917522" duration="1385000" />
       <workItem from="1780182100986" duration="69000" />
+      <workItem from="1780183578026" duration="58000" />
     </task>
     <servers />
   </component>
